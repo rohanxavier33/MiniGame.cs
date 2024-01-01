@@ -1,4 +1,4 @@
-# MiniGame.cs
+# miniGame.cs
 A short game where you can control a character and eat food in the terminal window
 
 This mini game ends if you resize the terminal window.
